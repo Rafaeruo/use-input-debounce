@@ -1,6 +1,6 @@
 {
   "name": "simple-use-input-debounce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple input debounce React Hook",
   "main": "lib/useInputDebounce.js",
   "types": "lib/useInputDebounce.d.ts",
